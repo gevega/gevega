@@ -41,10 +41,8 @@
   <h2>🔭 GitHub Stats 🔭</h2>
 </div>
 <div align='center'>
-  <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gevega&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="gevega's streak" />
-    <img src="https://github-readme-stats.vercel.app/api?username=gevega&show_icons=true&theme=dark&hide_border=true" alt="gevega's stats" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gevega&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="gevega's streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gevega&show_icons=true&theme=dark&hide_border=true" alt="gevega's stats" />
 </div>
 
 <!--
