@@ -1,4 +1,5 @@
-## gevega Galaxy :telescope: 🪐
+## ✨ gevega Galaxy :telescope: 🪐 ✨
+Welcome to my galaxy. I am Gonzalo Vega, a 22-year-old student currently pursuing a degree in Systems Engineering at UTN FRBA. With a fervent passion for technology, I am eager to delve into its vast potential.
 
 <!--
 **gevega/gevega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
