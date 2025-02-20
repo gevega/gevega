@@ -43,7 +43,7 @@
 </div>
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=gevega&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="gevega's streak" style="height: 200px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gevega&theme=jolly&hide_border=true" alt="gevega's stats" style="height: 200px;"/>
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=gevega&theme=jolly&hide_border=true" alt="gevega's stats" style="height: 200px;"/>-->
 </div>
 
 <!--
