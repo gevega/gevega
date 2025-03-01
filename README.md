@@ -4,7 +4,7 @@
 <div>
   <p align='justify'>
     <strong>
-      Welcome to my galaxy. I am Gonzalo Vega, a 22-year-old student currently pursuing a degree in Systems Engineering at UTN FRBA. With a fervent passion for technology, I am eager to delve into its vast potential.
+      Welcome to my galaxy. I am Gonzalo Vega, a 23-year-old student currently pursuing a degree in Systems Engineering at UTN FRBA. With a fervent passion for technology, I am eager to delve into its vast potential.
     </strong>
   </p>
 </div>
@@ -12,7 +12,7 @@
 <div align='center'>
   <a href="https://www.linkedin.com/in/gevegaeche"><img src="https://img.shields.io/badge/Linkedin-D14836?style=flat-square&logo=linkedin&color=5a0db4" alt="LinkedIn" style="height: 30px;" />
   <a href="mailto:gevegaecheverria@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&color=00a098" alt="GMail" style="height: 30px;" />
-  <a href="https://gevega.github.io/"><img src="https://img.shields.io/badge/Web_Page-D14836?style=flat-square&logo=cliqz&logoColor=white&color=5a0db4" alt="GMail" style="height: 30px;" />
+  <a href="https://gevega.vercel.app/"><img src="https://img.shields.io/badge/Web_Page-D14836?style=flat-square&logo=cliqz&logoColor=white&color=5a0db4" alt="GMail" style="height: 30px;" />
 </div>
 
 <div align='center'>
